@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @nugrhasatria
-- 👀 I’m interested in Math, Data Analytics, and Python
-- 🌱 I’m currently learning all those above 
-- 💞️ I’m looking to collaborate on data based project
-- 📫 How to reach me: email: 14snugraha@gmail.com
+- Welcome weary traveler..
+- to my GitHub profile..
+- I’m @nugrhasatria..
+- How may I assist you?
 
 <!---
 nugrhasatria/nugrhasatria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
